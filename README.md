@@ -1,5 +1,6 @@
 # iOS-OBJ-C-QRCodeReader
-QRCodeReader In Objective C
+QRCodeReader In Objective C based on 
+AVFoundation Framework
 
 Download and Use 
 This code is based on Appcoda
